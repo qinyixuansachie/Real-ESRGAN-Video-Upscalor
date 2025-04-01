@@ -1,3 +1,3 @@
 output_frames/*
 enhanced_frames/*
-_pycache__/*
+__pycache__/
