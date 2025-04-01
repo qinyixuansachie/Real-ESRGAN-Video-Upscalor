@@ -1,0 +1,6 @@
+[submodule "BasicSR"]
+	path = BasicSR
+	url = "https://github.com/XPixelGroup/BasicSR#"
+[submodule "Real-ESRGAN"]
+	path = Real-ESRGAN
+	url = https://github.com/xinntao/Real-ESRGAN
